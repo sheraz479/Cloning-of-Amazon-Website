@@ -19,11 +19,7 @@ Note: No JavaScript or backend — this is a static front-end clone
 
 # Installation / Use
 Clone the repository:
-git clone https://github.com/sheraz479/amazon-clone.git
+(https://github.com/sheraz479/Cloning-of-Amazon-Website)
 Open index.html in your browser.
 
 
-
-You can easily replace images and copy to adapt the layout for other e-commerce mockups. All styles are in the CSS files—structure is kept semantic for quick edits.
-
-License
